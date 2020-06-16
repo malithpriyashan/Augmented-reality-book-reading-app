@@ -1,0 +1,2 @@
+# Augmented-reality-book-reading-app
+This project is an android application which uses marker based Augmented Reality. This is created to make reading interactive. Graphical 3d models, audio, video, 3D text, UI buttons, Virtual buttons are some of the things used in this project. Two physical reading materials are used on this project a real estate magazine and a children book, the pages of these act as markers. This has been created using vuforia and unity.
