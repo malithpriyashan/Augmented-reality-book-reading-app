@@ -13,6 +13,7 @@ and can decide if that’s what they want. In the children’s book, there are
 various activities designed to develop the different cognitive abilities of the
 child, including games that focus on math, recognizing patterns, and creating
 and coloring a forest.
+
 ![image3](https://github.com/malithpriyashan/Augmented-reality-book-reading-app/assets/66530522/9ce36760-4cae-45ba-a45c-fc928e1f508e)
 ![image4](https://github.com/malithpriyashan/Augmented-reality-book-reading-app/assets/66530522/1e04b0a8-9e11-442b-a5fb-47360813cfe5)
 ![image5](https://github.com/malithpriyashan/Augmented-reality-book-reading-app/assets/66530522/57dd5a1d-3915-474d-95de-dd257d5de676)
